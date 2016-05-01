@@ -1,0 +1,2 @@
+配置步骤   http://fex-team.github.io/webuploader/getting-started.html#图片上传
+API说明文档  http://fex.baidu.com/webuploader/doc/index.html#WebUploader_File
